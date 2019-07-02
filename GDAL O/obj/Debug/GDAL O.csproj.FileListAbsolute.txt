@@ -1,0 +1,36 @@
+H:\我的项目\GDAL O\GDAL O\bin\Debug\GDAL O.exe.config
+H:\我的项目\GDAL O\GDAL O\bin\Debug\GDAL O.exe
+H:\我的项目\GDAL O\GDAL O\bin\Debug\GDAL O.pdb
+H:\我的项目\GDAL O\GDAL O\bin\Debug\gdalconst_csharp.dll
+H:\我的项目\GDAL O\GDAL O\bin\Debug\gdal_csharp.dll
+H:\我的项目\GDAL O\GDAL O\bin\Debug\ogr_csharp.dll
+H:\我的项目\GDAL O\GDAL O\bin\Debug\osr_csharp.dll
+H:\我的项目\GDAL O\GDAL O\obj\Debug\GDAL O.csprojResolveAssemblyReference.cache
+H:\我的项目\GDAL O\GDAL O\obj\Debug\GDAL_O.Form1.resources
+H:\我的项目\GDAL O\GDAL O\obj\Debug\GDAL_O.Properties.Resources.resources
+H:\我的项目\GDAL O\GDAL O\obj\Debug\GDAL O.csproj.GenerateResource.Cache
+H:\我的项目\GDAL O\GDAL O\obj\Debug\GDAL O.exe
+H:\我的项目\GDAL O\GDAL O\obj\Debug\GDAL O.pdb
+H:\我的项目\GDAL O\GDAL O\obj\Debug\GDAL_O.Form2.resources
+H:\我的项目\GDAL O\GDAL O\obj\Debug\GDAL_O.Form3.resources
+H:\我的项目\GDAL O\GDAL O\obj\Debug\GDAL_O.ShpCreate.resources
+H:\我的项目\GDAL O\GDAL O\obj\Debug\GDAL_O.Form4.resources
+H:\我的项目\GDAL O\GDAL O\obj\Debug\GDAL_O.GDAL.resources
+H:\我的项目\GDAL O\GDAL O\obj\Debug\GDAL_O.Point.resources
+H:\我的项目\GDAL O\GDAL O\obj\Debug\GDAL_O.ZiDuanGuanLi.resources
+H:\我的项目\GDAL O\GDAL O\obj\Debug\GDAL_O.ZiDuanChaXun.resources
+H:\GDAL O\GDAL O\obj\Debug\GDAL O.csprojAssemblyReference.cache
+H:\GDAL O\GDAL O\obj\Debug\GDAL_O.Form1.resources
+H:\GDAL O\GDAL O\obj\Debug\GDAL_O.Form2.resources
+H:\GDAL O\GDAL O\obj\Debug\GDAL_O.Form3.resources
+H:\GDAL O\GDAL O\obj\Debug\GDAL_O.Form4.resources
+H:\GDAL O\GDAL O\obj\Debug\GDAL_O.GDAL.resources
+H:\GDAL O\GDAL O\obj\Debug\GDAL_O.Point.resources
+H:\GDAL O\GDAL O\obj\Debug\GDAL_O.Properties.Resources.resources
+H:\GDAL O\GDAL O\obj\Debug\GDAL_O.ShpCreate.resources
+H:\GDAL O\GDAL O\obj\Debug\GDAL_O.ZiDuanChaXun.resources
+H:\GDAL O\GDAL O\obj\Debug\GDAL_O.ZiDuanGuanLi.resources
+H:\GDAL O\GDAL O\obj\Debug\GDAL O.csproj.GenerateResource.cache
+H:\GDAL O\GDAL O\obj\Debug\GDAL O.csproj.CoreCompileInputs.cache
+H:\GDAL O\GDAL O\obj\Debug\GDAL O.exe
+H:\GDAL O\GDAL O\obj\Debug\GDAL O.pdb
